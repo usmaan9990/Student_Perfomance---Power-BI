@@ -1,5 +1,3 @@
-# Student_Perfomance---Power-BI
-
 # Student_Perfomance-PowerBI
 
 This project explores student achievement in secondary education at two Portuguese schools. The dataset includes student grades, demographic, social, and school-related features, collected via school reports and questionnaires. Two datasets are provided, representing performance in Mathematics (mat) and Portuguese language (por).
